@@ -1,6 +1,6 @@
-const print = require('frame-print');
+const print = require("warpfox-frame-print");
 
-print('Hello NPM!');
+print("Hello NPM!");
 
 /*
 Expected Output:
